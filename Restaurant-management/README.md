@@ -9,8 +9,11 @@ from browsing the menu to printing the final bill.
 - 💰 **Automatic billing** — calculates totals so no one's doing math on a napkin
 
 ## 🚀 How to run
+
 javac Restaurantmanagement.java
+
 java Restaurantmanagement
+
 
 ## 🎯 About
 Built as a school project to put core Java concepts to work — object-oriented 
